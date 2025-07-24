@@ -1,2 +1,2 @@
 hello all this is dinesh
-hello from main
+hello
